@@ -74,39 +74,32 @@ Given a desired arrival time, the route planner computes the fastest route betwe
 - **Algorithm Design & Data Structures**
 - **Object-Oriented Programming**
 
-## Databases
+### Databases
 - **SQL, Database Design**
 - **MongoDB, MySQL, PostgreSQL, NoSQL**
 
-## Software Engineering
-- **Algorithm Implementation, Git, Deployment**: Skilled in version control, deploying applications, and implementing algorithms.
+### Software Engineering
+- **Algorithm Implementation, Git, Deployment, Docker**: Skilled in version control, deploying applications, and implementing algorithms.
 
-## Cloud & Deployment
-- **AWS, Docker**: Knowledgeable in using AWS for deploying applications and services, and Docker for containerization.
-- **Linux**: Familiar with Linux environments and command-line tools.
+### Data Analysis
+- **Data Extraction, Cleaning & Visualization**: Expertise in the entire data handling pipeline from acquisition to visualization.
+- **Feature Engineering, Data Mining**: Proficient in uncovering insights and manipulating data.
+- **Handling Unstructured Data**: Experienced in processing and analyzing data that is not in a predefined format.
 
-## Machine Learning & Data Science Libraries
+### Machine Learning & Data Science Libraries
 - **TensorFlow, Keras, Scikit-Learn, Scikit-Optimize, StatsModels**: Proficient in using these libraries for building and optimizing machine learning models.
 - **Numpy, Pandas, Matplotlib, Plotly, Seaborn, Streamlit**: Advanced skills in data manipulation, visualization, and interactive dashboard creation.
 - **SpaCy, Gensim, NLTK**: Experienced in natural language processing and text analysis.
 
-## Machine Learning
+### Machine Learning and Deep learning algorithms
 - **Techniques**: Traditional ML algorithms (Random Forest, Decision Trees, SVM), Regression, Classification, Clustering.
-- **Specializations**: Time-series Forecasting, Feature Selection, Outlier Detection, NLP, Hyper-parameter Optimization.
-
-## Deep Learning
 - **Network Architectures**: Proficient with MLP, CNN, RNN, LSTM.
 - **Applications**: Specialized in deep learning for NLP and time-series forecasting.
 
-## Statistics
+### Statistics
 - **Descriptive Statistics, Probability Theory, Regression Analysis**: Strong statistical foundation.
 - **Bayesian Statistics, Statistical Modeling**: Advanced understanding of Bayesian methods and statistical models.
 - **Bayesian AB Testing, Inference, Dimensionality Reduction, Hypothesis Testing**: Skilled in advanced statistical tests and data analysis techniques.
-
-## Data Analysis
-- **Data Extraction, Cleaning & Visualization**: Expertise in the entire data handling pipeline from acquisition to visualization.
-- **Feature Engineering, Data Mining**: Proficient in uncovering insights and manipulating data.
-- **Handling Unstructured Data**: Experienced in processing and analyzing data that is not in a predefined format.
 
 ## Interpersonal Skills
 - **Teamwork, Leadership & Communication Skills**: Proven track record of effective collaboration and leadership.
