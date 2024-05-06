@@ -18,62 +18,68 @@ My passion for transforming complex data into actionable insights has led me thr
 ### Sentiment Analysis and Stock Prediction
 
 [Code](https://github.com/rhitamam/ada-2021-project-adaptiveness) [Website](https://rhitamam.github.io)
-Description : 
+
+**Description** : This research project examines the influence of public sentiment, specifically related to the U.S.-China trade war, on stock market fluctuations. Conducted within a sophisticated data science framework, the project integrates advanced sentiment analysis tools and stock prediction methodologies to explore and identify predictive relationships between geopolitical sentiment and stock market movements. 
 
 ### Zurich Stochastic Journey Planner
 [Code](https://github.com/rhitamam/stochastic-journey-planner) [Website](https://michaelroust-stochastic-journey-p-routingstreamlit-site-yvvsws.streamlit.app)
-Description : 
+
+**Description** : This project is a robust public transport route planner to improve on that. The SBB dataset has been used.
+Given a desired arrival time, the route planner computes the fastest route between departure and arrival stops within a provided confidence tolerance expressed as interquartiles. For instance, "what route from A to B is the fastest at least Q% of the time if I want to arrive at B before instant T".
+
+### Finding the Higgs Boson Challenge
+[Code](https://github.com/rhitamam/ml-project-1-krz) [Report](https://github.com/rhitamam/ml-project-1-krz/blob/master/project1_description.pdf)
+
+**Description** : In the landmark Higgs boson prediction challenge, I applied advanced machine learning techniques to differentiate the elusive Higgs boson particle from background noise within simulated particle collision data from CERN's ATLAS experiment. This project aimed to enhance the signal detection accuracy, contributing to the broader field of particle physics by leveraging data-driven insights.
+
+
 
 
 
 ## 📚 Education
 
-- **MSc in Data Science**, Ecole Polytechnique Fédérale de Lausanne
-  - *2021-2024*
+- **MSc in Data Science**, Ecole Polytechnique Fédérale de Lausanne (2021-2024)
   - Courses: Advanced Data Analysis, Machine Learning, Distributed Systems, Deep Learning
 
-- **BSc in Communication Systems**, Ecole Polytechnique Fédérale de Lausanne
-  - *2017-2021*
+- **BSc in Communication Systems**, Ecole Polytechnique Fédérale de Lausanne (2017-2021)
   - Courses: Algorithms, Artificial Intelligence, Database Systems, Probabilities and Statistics
 
 ## 💼 Professional Experience
 
 ### Data Scientist Intern, Nestlé, Lausanne, Switzerland
-- **Duration:** October 2023 - March 2024
+- **Duration:** 6 months
 - Developed a machine learning model for predicting clinical outcomes in infants.
 - Employed data wrangling and cleaning techniques on complex, high-volume datasets.
 - Explored Generative AI capabilities to integrate robust models into business processes.
 
 ### Data Scientist Intern, Philip Morris International, Lausanne, Switzerland
-- **Duration:** March 2023 - September 2023
+- **Duration:** 6 months
 - Created a demand planning model that optimized order placement and minimized capital loss.
 - Standardized data cleaning processes to ensure high-quality data for analysis.
 
 ### Data Scientist Intern, Caplena, Zurich, Switzerland
-- **Duration:** July 2022 - September 2022
+- **Duration:** 3 months
 - Enhanced customer feedback analysis using a machine learning model, improving model accuracy and robustness.
 
 ### Data Analyst Intern, WafR, Casablanca, Morocco
-- **Duration:** July 2021 - September 2021
+- **Duration:** 3 months
 - Developed a machine learning-based fraud detection model, enhancing detection capabilities by 22%.
 
 ## 🛠 Skills
 
 
-## Programming
-- **Python, SQL, Java**: Proficient in software development and scripting.
-- **HTML & JavaScript**: Skilled in creating dynamic and interactive web applications.
-- **Algorithm Design & Data Structures**: Expertise in complex problem-solving and optimizing data processes.
-- **Object-Oriented Programming**: Strong foundation in building scalable and maintainable software systems.
+### Programming
+- **Python, SQL, Java**
+- **HTML & JavaScript**
+- **Algorithm Design & Data Structures**
+- **Object-Oriented Programming**
 
 ## Databases
-- **SQL, Database Design**: Advanced knowledge in relational database management and design.
-- **MongoDB, MySQL, PostgreSQL, NoSQL**: Extensive experience with both SQL and NoSQL database technologies.
+- **SQL, Database Design**
+- **MongoDB, MySQL, PostgreSQL, NoSQL**
 
 ## Software Engineering
-- **Client-Server Applications**: Proficient in developing robust client-server systems.
 - **Algorithm Implementation, Git, Deployment**: Skilled in version control, deploying applications, and implementing algorithms.
-- **Unit Testing, Writing Reports & Documentation**: Experienced in ensuring code quality and documenting development processes.
 
 ## Cloud & Deployment
 - **AWS, Docker**: Knowledgeable in using AWS for deploying applications and services, and Docker for containerization.
@@ -89,7 +95,7 @@ Description :
 - **Specializations**: Time-series Forecasting, Feature Selection, Outlier Detection, NLP, Hyper-parameter Optimization.
 
 ## Deep Learning
-- **Network Architectures**: Proficient with MLP, CNN, RNN, LSTM, GRU, GANs.
+- **Network Architectures**: Proficient with MLP, CNN, RNN, LSTM.
 - **Applications**: Specialized in deep learning for NLP and time-series forecasting.
 
 ## Statistics
@@ -98,8 +104,8 @@ Description :
 - **Bayesian AB Testing, Inference, Dimensionality Reduction, Hypothesis Testing**: Skilled in advanced statistical tests and data analysis techniques.
 
 ## Data Analysis
-- **Data Acquisition, Cleaning & Visualization**: Expertise in the entire data handling pipeline from acquisition to visualization.
-- **Feature Engineering, Data Mining, Predictive Modeling**: Proficient in uncovering insights and making predictions from data.
+- **Data Extraction, Cleaning & Visualization**: Expertise in the entire data handling pipeline from acquisition to visualization.
+- **Feature Engineering, Data Mining**: Proficient in uncovering insights and manipulating data.
 - **Handling Unstructured Data**: Experienced in processing and analyzing data that is not in a predefined format.
 
 ## Interpersonal Skills
