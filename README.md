@@ -2,9 +2,11 @@
 
 Welcome to my professional portfolio on GitHub! Here, you'll find projects that showcase my expertise in data science, machine learning, and data visualization, reflecting my journey through the world of data analytics.
 
+![Picture](img/forum_epfl_ag-199.jpg)
+
 ## 🙋 About Me
 
-I'm Rhita, currently based in Lausanne, Switzerland, graduated from the Data Science Master at the Ecole Polytechnique Fédérale de Lausanne.
+I'm Rhita, currently based in Lausanne, Switzerland, graduated from Data Science Master at the Ecole Polytechnique Fédérale de Lausanne.
 My passion for transforming complex data into actionable insights has led me through several exciting internships and projects. I am particularly keen on exploring new technologies and utilizing machine learning to uncover meaningful patterns in data.
 
 - **LinkedIn:** [rhita-mamou](https://linkedin.com/in/rhita-mamou)
@@ -58,6 +60,6 @@ My passion for transforming complex data into actionable insights has led me thr
 
 ## 📈 Projects
 
-Please explore my [GitHub repositories](https://github.com/rhitamam) to view the projects I've been working on. Each repository contains a detailed description of the project, the technologies used, and the outcomes achieved.
+
 
 Thank you for visiting my portfolio. Feel free to connect with me on LinkedIn or send me an email for collaborations or opportunities.
