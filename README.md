@@ -2,7 +2,7 @@
 
 Welcome to my professional portfolio on GitHub! Here, you'll find projects that showcase my expertise in data science, machine learning, and data visualization, reflecting my journey through the world of data analytics.
 
-![Picture](img/forum_epfl_ag-199.jpg)
+
 
 ## 🙋 About Me
 
