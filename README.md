@@ -4,7 +4,7 @@ Welcome to my professional portfolio on GitHub! Here, you'll find projects that 
 
 ## 🙋 About Me
 
-I'm Rhita, currently based in Lausanne, Switzerland, graduated from the Master's in Data Science at the Ecole Polytechnique Fédérale de Lausanne.
+I'm Rhita, currently based in Lausanne, Switzerland, graduated from the Data Science Master at the Ecole Polytechnique Fédérale de Lausanne.
 My passion for transforming complex data into actionable insights has led me through several exciting internships and projects. I am particularly keen on exploring new technologies and utilizing machine learning to uncover meaningful patterns in data.
 
 - **LinkedIn:** [rhita-mamou](https://linkedin.com/in/rhita-mamou)
