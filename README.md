@@ -101,8 +101,8 @@ Given a desired arrival time, the route planner computes the fastest route betwe
 - **Bayesian Statistics, Statistical Modeling**: Advanced understanding of Bayesian methods and statistical models.
 - **Bayesian AB Testing, Inference, Dimensionality Reduction, Hypothesis Testing**: Skilled in advanced statistical tests and data analysis techniques.
 
-## Interpersonal Skills
-- **Teamwork, Leadership & Communication Skills**: Proven track record of effective collaboration and leadership.
+### Interpersonal Skills
+- **Teamwork, Leadership & Communication Skills**: Presentation skills to non-technical audience.
 - **Intellectually Curious, Eager to Learn, Time Management**: Always seeking new knowledge and efficiently managing time.
 - **Motivated, Analytical Thinker, Data-Driven Problem Solver**: Highly motivated with a strong analytical mindset focused on solving complex data-driven problems.
 
